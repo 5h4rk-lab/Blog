@@ -1,35 +1,9 @@
-## Welcome to GitHub Pages
+# [haskhell-tryhackme-walkthrough](https://medium.com/@gocharan98/haskhell-writeup-33ea8f5b964e)
 
-You can use the [editor on GitHub](https://github.com/5h4rk-lab/Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# [pickle-tryhackme-walkthrough](https://medium.com/@gocharan98/write-up-for-pickle-rick-tryhackme-6878f130cd8a)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [wgelCTF-tryhackme-walkthrough](https://medium.com/@gocharan98/wgel-ctf-tryhackme-write-up-8983116d5fb8)
 
-### Markdown
+# [nmap room - pentest+ track](https://gocharan98.medium.com/nmap-thm-a4cc49e409eb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Work-in-progress
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/5h4rk-lab/Blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [passage](https://gocharan98.medium.com/passage-htb-walk-through-d85283c3aeff)
