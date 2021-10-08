@@ -138,7 +138,7 @@ The logical AND operator (&&) returns true if both operands are true and returns
 
 Case2 OR operation
 
-The logical OR operator (||) returns the boolean value true if either or both operands is true and returns false otherwise. The operands are implicitly converted to type bool before evaluation, and the result is of type bool. Logical OR has left-to-right associativity. output for this would be 10101011
+The logical OR operator returns the boolean value true if either or both operands is true and returns false otherwise. The operands are implicitly converted to type bool before evaluation, and the result is of type bool. Logical OR has left-to-right associativity. output for this would be 10101011
 
 
 Case3 XOR 
