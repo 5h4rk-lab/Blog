@@ -1,3 +1,6 @@
+# Revenge-Tryhackme
+A quick easy writeup for Revenge box in tryhackme.
+
 INTRO
 ```
 type :- linux
